@@ -1,5 +1,5 @@
 {
-  "name": "mymodule",
+  "name": "mmkdissa-mymodule",
   "version": "1.0.5",
   "description": "a demo package",
   "main": "index.js",
@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
+    "mymodule": "git+ssh://git@github.com/mmkdissa/mymodule.git",
     "path": "^0.12.7"
   }
 }
